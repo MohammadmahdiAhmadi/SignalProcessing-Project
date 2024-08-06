@@ -50,7 +50,7 @@ Each script can be run individually to observe the respective signal processing 
 
 To run a specific script, use the following command:
 ```bash
-cd SignalProject/
+cd src/
 
 python <script_name>.py
 ```
